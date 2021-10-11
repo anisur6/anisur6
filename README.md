@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anisur6
+- 👋 Hi, I’m Anisur Rahman
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning web devlopment
 - 💞️ I’m looking to collaborate on stackoverflow
