@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Anisur Rahman 
-- ![anis-passportsize_image1](https://user-images.githubusercontent.com/68163998/147823646-4d33d298-20fc-4bf6-b471-0545001cceee.jpg)
+- 👋 Hi, I’m Anisur Rahman
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning web devlopment ![Uploading anis-passportsize_image1.jpg…]()
+- 🌱 I’m currently learning web devlopment
 
 - 💞️ I’m looking to collaborate on stackoverflow
 - 📫 How to reach me armunna223@gmail.com
