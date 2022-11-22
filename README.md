@@ -15,11 +15,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anisurr43196808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anisurr43196808" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anisur-rahman-8254151ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anisur-rahman-8254151ab/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15985002/anisur-rahman?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15985002/anisur-rahman?tab=profile" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100016930840551" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100016930840551" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@armunna223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@armunna223" height="30" width="40" /></a>
+<a href="https://twitter.com/anisurr43196808" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anisurr43196808" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anisur-rahman-8254151ab/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anisur-rahman-8254151ab/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15985002/anisur-rahman?tab=profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15985002/anisur-rahman?tab=profile" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100016930840551" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100016930840551" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@armunna223" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@armunna223" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
